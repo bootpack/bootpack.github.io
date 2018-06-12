@@ -1,0 +1,29 @@
+{
+  "name": "bootpack.github.io",
+  "version": "1.0.0",
+  "description": "The website for bootpack: A webpack + bootstrap boilerplate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bootpack/bootpack.github.io.git"
+  },
+  "keywords": [
+    "bootpack",
+    "webpack",
+    "bootstrap",
+    "boilerplate",
+    "template",
+    "webpage",
+    "starter",
+    "website"
+  ],
+  "author": "ZachTRice",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bootpack/bootpack.github.io/issues"
+  },
+  "homepage": "https://github.com/bootpack/bootpack.github.io#readme"
+}
